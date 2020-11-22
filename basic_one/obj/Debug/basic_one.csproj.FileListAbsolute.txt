@@ -5,3 +5,10 @@ A:\GitHub\Exercicses_001\basic_one\obj\Debug\basic_one.csprojAssemblyReference.c
 A:\GitHub\Exercicses_001\basic_one\obj\Debug\basic_one.csproj.CoreCompileInputs.cache
 A:\GitHub\Exercicses_001\basic_one\obj\Debug\basic_one.exe
 A:\GitHub\Exercicses_001\basic_one\obj\Debug\basic_one.pdb
+M:\GitHub\Exercicses_001\basic_one\bin\Debug\basic_one.exe.config
+M:\GitHub\Exercicses_001\basic_one\bin\Debug\basic_one.exe
+M:\GitHub\Exercicses_001\basic_one\bin\Debug\basic_one.pdb
+M:\GitHub\Exercicses_001\basic_one\obj\Debug\basic_one.csprojAssemblyReference.cache
+M:\GitHub\Exercicses_001\basic_one\obj\Debug\basic_one.csproj.CoreCompileInputs.cache
+M:\GitHub\Exercicses_001\basic_one\obj\Debug\basic_one.exe
+M:\GitHub\Exercicses_001\basic_one\obj\Debug\basic_one.pdb
