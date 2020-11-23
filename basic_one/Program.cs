@@ -30,7 +30,7 @@ namespace basic_one
             Console.WriteLine(height.ToString("F2", CultureInfo.InvariantCulture));
 
             //first one
-            //New PC, tests
+            //New PC, testes
 
         }
     }
